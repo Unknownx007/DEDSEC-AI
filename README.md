@@ -1,4 +1,4 @@
-### ☠️ DEDSEC-AI ☢️
+## DEDSEC-AI ☢️
 
 <p align="center">
   <!-- Place your interface image snippet right inside this asset tag link -->
